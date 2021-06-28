@@ -1,0 +1,19 @@
+{
+  "name": "password-reset",
+  "version": "1.0.0",
+  "description": "reset",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyazulahad786/gaya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyazulahad786/gaya/issues"
+  },
+  "homepage": "https://github.com/riyazulahad786/gaya#readme"
+}
